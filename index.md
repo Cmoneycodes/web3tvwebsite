@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-## [Motif enjoyer](https://podcasters.spotify.com/pod/show/web3tv/episodes/Motif-enjoyer-e24i2jv)
+## [Motif enjoyer](https://d2a9bkgsuxmqe2.cloudfront.net/production/podcast_uploaded_episode400/37770170/37770170-1690503178037-02f98f4f93b04.jpg)
 
 ![Motif enjoyer]()
 
@@ -11,7 +11,7 @@ title: Home
 ---
 
 
-## [YAYO](https://podcasters.spotify.com/pod/show/web3tv/episodes/YAYO-e24g0rv)
+## [YAYO](https://d2a9bkgsuxmqe2.cloudfront.net/production/podcast_uploaded_episode400/37770170/37770170-1684758011648-edfacb101a81b.jpg)
 
 ![YAYO]()
 
@@ -20,7 +20,7 @@ Drew a blank for the title. Tornado cash is a protocol where u can opuscqte fund
 ---
 
 
-## [A NEW PARADIGM AND WE ARE HERE](https://podcasters.spotify.com/pod/show/web3tv/episodes/A-NEW-PARADIGM-AND-WE-ARE-HERE-e2475rn)
+## [A NEW PARADIGM AND WE ARE HERE](https://d2a9bkgsuxmqe2.cloudfront.net/production/podcast_uploaded_nologo400/37770170/37770170-1684167933371-4bd7f87e69d8e.jpg)
 
 ![A NEW PARADIGM AND WE ARE HERE]()
 
@@ -29,7 +29,7 @@ The end story has me buzzing writing this description. Cryptos are hella rizz.
 ---
 
 
-## [They want me to go to 0!](https://podcasters.spotify.com/pod/show/web3tv/episodes/They-want-me-to-go-to-0-e2457jo)
+## [They want me to go to 0!](https://d2a9bkgsuxmqe2.cloudfront.net/production/podcast_uploaded_nologo400/37770170/37770170-1684167933371-4bd7f87e69d8e.jpg)
 
 ![They want me to go to 0!]()
 
